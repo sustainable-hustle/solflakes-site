@@ -32,6 +32,10 @@ const faqs = [
     answer: "Check our terms and conditions.",
   },
   {
+    question: "Is there a roadmap for utility beyond the mint and giveaway?",
+    answer: "A lot of projects promise abstract utility, secondary tokens, and even metaverses. Very few properly deliver on those promises. We take pride in what we do, and take our promises and commitments seriously. Thus, right now, we're not promising more in advance. HOWEVER! Should the community end up being strong, positive, and vocal, decisions could be made about pushing this project beyond its original goals."
+  },
+  {
     question: "How does the charity bit work?",
     answer: "After a certain cut-off date (TBD), 21% of the proceeds from the NFT sales will be distributed to three charities. 1. One charity will be chosen by the team. 2. One charity will be chosen by a golden snowflake holder (randomly chosen). 3. One charity will be chosen by the whole community. Each of three charities will receive an equal share of the charitable distribution, that is 7% each.",
   },
