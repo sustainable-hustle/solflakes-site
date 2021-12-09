@@ -3,7 +3,7 @@
     <Header />
     <main class="flex-grow prose py-12">
       <div class="mx-auto py-12 px-4 max-w-7xl sm:px-6 lg:px-8 lg:py-24">
-        <p>terms terms terms</p>
+        <p>Defrosting...</p>
       </div>
     </main>
     <Footer />
