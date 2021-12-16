@@ -2,7 +2,9 @@
     "/js/app.js": "/js/app.js",
     "/css/app.css": "/css/app.css",
     "/images/background.jpeg": "/images/background.jpeg",
+    "/images/logo.png": "/images/logo.png",
     "/images/loris.jpeg": "/images/loris.jpeg",
     "/images/nik.jpeg": "/images/nik.jpeg",
-    "/images/sam.jpeg": "/images/sam.jpeg"
+    "/images/sam.jpeg": "/images/sam.jpeg",
+    "/images/space.jpg": "/images/space.jpg"
 }

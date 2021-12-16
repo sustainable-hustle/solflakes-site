@@ -50,3 +50,6 @@ Route::view('/', 'landing', [
     ],
 ]);
 Route::view('/terms', 'terms');
+Route::view('/rarity', 'rarity', [
+    'rarityGroups' => json_decode(file_get_contents(base_path('rarity.json'))),
+]);

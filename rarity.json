@@ -1,0 +1,49 @@
+{
+    "branches": {
+        "5":  0.30,
+        "6":  0.23,
+        "7":  0.18,
+        "8":  0.13,
+        "9":  0.08,
+        "10": 0.05,
+        "11": 0.02,
+        "12": 0.01
+    },
+    "rings": {
+        "2":  0.60,
+        "3":  0.40
+    },
+    "iterations": {
+        "2":  0.42,
+        "3":  0.33,
+        "4":  0.25
+    },
+    "main branch": {
+        "crystal":  0.40,
+        "melting":  0.30,
+        "wobble":  0.15,
+        "tree":  0.09,
+        "circle":  0.05,
+        "feather":  0.01
+    },
+    "style": {
+        "white":  0.35,
+        "blue ice":  0.25,
+        "lemon":  0.15,
+        "green toon":  0.10,
+        "clay":  0.08,
+        "purple":  0.05,
+        "carnival":  0.015,
+        "solana":  0.005
+    },
+    "background": {
+        "blue":  0.38,
+        "yellow":  0.27,
+        "pink":  0.15,
+        "grotto":  0.10,
+        "space":  0.06,
+        "super nova":  0.03,
+        "gold":  0.008,
+        "solana":  0.002
+    }
+}
