@@ -8,7 +8,7 @@
             </div>
             <div class="relative py-16 sm:px-6 sm:py-24 lg:py-32 lg:px-8">
                 <div class="flex w-full justify-center">
-                    <img class="w-72 h-auto rounded-lg shadow-2xl" src="{{ asset('images/logo.png') }}" />
+                    <img class="w-72 h-auto rounded-lg shadow-2xl" src="{{ asset('images/logo_small.jpg') }}" />
                 </div>
             </div>
         </div>
