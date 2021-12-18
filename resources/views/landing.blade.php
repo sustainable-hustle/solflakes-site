@@ -5,6 +5,7 @@
 @section('content')
     @include('partials.landing.hero')
     @include('partials.landing.stats')
+    @include('partials.landing.timeline')
     @include('partials.landing.team')
     @include('partials.landing.faq')
 @endsection
