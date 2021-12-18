@@ -43,10 +43,6 @@ Route::view('/', 'landing', [
             'question' => "Will I be able to sell my NFT on a marketplace?",
             'answer' => "Yes. Though if you don't hold at least 1 NFT during the giveaway, you won't be participating.",
         ],
-        [
-            'question' => "Is there a pre-sale, whitelist??",
-            'answer' => "Sure is. Details coming shortly.",
-        ],
     ],
 ]);
 Route::view('/terms', 'terms');
